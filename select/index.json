@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "MILLION PLACES",
+  "base_artist": "XG",
+  "createdAt": "2025-12-21T08:13:00.616028Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Million Places",
+      "artist": "R3HAB feat. W&W",
+      "has_synced": true,
+      "path": "select/01_Million_Places_R3HAB_feat._W&W.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Million Places",
+      "artist": "R3HAB/W&W",
+      "has_synced": true,
+      "path": "select/02_Million_Places_R3HAB_W&W.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Million Places",
+      "artist": "TRFN",
+      "has_synced": true,
+      "path": "select/03_Million_Places_TRFN.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Million Places",
+      "artist": "R3HAB x W&W",
+      "has_synced": true,
+      "path": "select/04_Million_Places_R3HAB_x_W&W.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Million Places (feat. Siadou)",
+      "artist": "Siadou, TRFN",
+      "has_synced": true,
+      "path": "select/05_Million_Places_(feat._Siadou)_Siadou,_TRFN.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Million Places",
+      "artist": "TRFN, Siadou",
+      "has_synced": true,
+      "path": "select/06_Million_Places_TRFN,_Siadou.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "MILLION PLACES",
+      "artist": "XG",
+      "has_synced": false,
+      "path": "select/07_MILLION_PLACES_XG.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Million Places",
+      "artist": "R3HAB & W&W",
+      "has_synced": true,
+      "path": "select/08_Million_Places_R3HAB_&_W&W.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Million Places",
+      "artist": "W&W",
+      "has_synced": true,
+      "path": "select/09_Million_Places_W&W.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "MILLION PLACES",
+      "artist": "XG",
+      "has_synced": false,
+      "path": "select/pl_01_MILLION_PLACES_XG.txt"
+    }
+  ]
+}
